@@ -8,7 +8,7 @@
 
 - 🌟 Apasionado por el desarrollo web y la programación orientada a objetos.
 - 💡 Amante del aprendizaje continuo y la exploración de nuevas tecnologías.
-- ⚙️ Actualmente explorando **Astro**, **React**, y arquitectura de aplicaciones escalables.
+- ⚙️ Actualmente explorando **Astro** y arquitectura de aplicaciones escalables.
 
 ---
 
